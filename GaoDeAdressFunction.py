@@ -1,8 +1,8 @@
 import requests
 import json
 
-key = '50103684282905560b3d085de42a3508'#高德
-t_key='	DJCBZ-NSCKB-5AEUI-NEZ7S-APOTK-34FZJ'#腾讯
+key = ''#高德
+t_key='	'#腾讯
 def geo(address:str)->dict:#获得经纬度
     parameters={
         'key':key,
