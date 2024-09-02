@@ -46,11 +46,4 @@ To improve the system, we need to focus on the following areas:
 - Optimize the system for mobile devices to ensure it runs at a tolerable speed.
 - Develop a decision-making framework to assist users in navigating their surroundings effectively.
 
-## Conclusion
-This project has the potential to significantly improve the mobility and independence of visually impaired individuals. By addressing the outlined challenges, we can create a more effective and user-friendly sidewalk recognition system.
 
-## Contributions
-Contributions to this project are welcome! Please feel free to submit issues or pull requests to help improve the system.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
