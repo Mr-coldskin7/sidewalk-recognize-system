@@ -1,4 +1,4 @@
-# Sidewalk Recognition System for the Visually Impaired
+# Sidewalk Recognition System for the Visually Impaired 残障人士路面识别系统
 
 ## Overview
 This project aims to develop a system that assists visually impaired individuals in recognizing sidewalks and navigating urban environments. The system utilizes YOLOv5 for object detection, focusing on traffic lights and road lines, while also attempting to identify sidewalks.
